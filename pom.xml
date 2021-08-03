@@ -22,9 +22,9 @@
 
   <distributionManagement>
     <site>
-      <id>nexus_group</id>
-      <name>my_first_build</name>
-      <url>http://104.45.154.148:8081/repository/my_first_build/nexus_group</url>
+      <id>maven-snap</id>
+      <name>maven-snapshot</name>
+      <url>http://104.45.154.148:8081/repository/maven-snapshots/</url>
     </site>
   </distributionManagement>
 
